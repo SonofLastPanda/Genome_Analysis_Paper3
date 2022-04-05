@@ -1,0 +1,14 @@
+reference chromosomes:
+	Geobacter_daltonii_FRC_32_NC_011979.1 (total length: 4304501 bp, total length without N's: 4304501 bp, maximal covered length: 261 bp)
+
+total genome size: 4304501
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Geobact | 0.006     | 1.192       | 3         | -         | -         | -         | -         |

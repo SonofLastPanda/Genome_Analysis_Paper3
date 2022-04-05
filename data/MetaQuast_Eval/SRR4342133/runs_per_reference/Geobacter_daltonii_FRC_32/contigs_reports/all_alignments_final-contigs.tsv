@@ -1,0 +1,12 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+CONTIG	k105_93760	679	unaligned
+3989784	3989856	73	1	Geobacter_daltonii_FRC_32_NC_011979.1	k105_106379	95.89		True
+CONTIG	k105_106379	785	correct_unaligned
+2115924	2116020	5	101	Geobacter_daltonii_FRC_32_NC_011979.1	k105_111177	98.97		True
+CONTIG	k105_111177	2860	correct_unaligned
+CONTIG	k105_47868	1678	unaligned
+3989665	3989737	726	798	Geobacter_daltonii_FRC_32_NC_011979.1	k105_51367	95.89		True
+CONTIG	k105_51367	2135	correct_unaligned
+3989647	3989714	68	1	Geobacter_daltonii_FRC_32_NC_011979.1	k105_56360	98.53		True
+CONTIG	k105_56360	627	correct_unaligned
+CONTIG	k105_57938	628	unaligned

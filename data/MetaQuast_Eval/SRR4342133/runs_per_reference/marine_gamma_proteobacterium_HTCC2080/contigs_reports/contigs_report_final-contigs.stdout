@@ -1,0 +1,324 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000002.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000003.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000004.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000005.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000007.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000008.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000009.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000010.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000012.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000013.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000014.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000016.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000017.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000018.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000019.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000020.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000021.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000022.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000023.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000024.1]
+	Loaded [marine_gamma_proteobacterium_HTCC2080_AAVV01000025.1]
+	Total Regions: 25
+	Total Region Length: 3576081
+Analyzing contigs...
+CONTIG: k105_92787 (750bp)
+Best alignment score: 159.0 (LEN: 164, IDY: 96.95), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 159.0, number of alignments: 1, unaligned bases: 586
+		This contig is partially unaligned. (Aligned 164 out of 750 non-N bases (21.87%))
+		Alignment: 23632 23795 | 587 750 | 164 164 | 96.95 | marine_gamma_proteobacterium_HTCC2080_AAVV01000013.1 k105_92787
+		Unaligned bases: 1 to 586 (586)
+
+CONTIG: k105_82707 (692bp)
+Best alignment score: 92.0 (LEN: 93, IDY: 98.92), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 599
+		Alignment: 20066 20158 | 448 540 | 93 93 | 98.92 | marine_gamma_proteobacterium_HTCC2080_AAVV01000013.1 k105_82707
+
+CONTIG: k105_96412 (7316bp)
+Best alignment score: 89.0 (LEN: 90, IDY: 98.89), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 150446 150529 | 2914 2831 | 84 84 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1 k105_96412
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 7226
+		This contig is partially unaligned. (Aligned 90 out of 7316 non-N bases (1.23%))
+		Alignment: 158019 158108 | 90 1 | 90 90 | 98.89 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1 k105_96412
+		Unaligned bases: 91 to 7316 (7226)
+
+CONTIG: k105_26507 (548bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 468
+		Alignment: 158023 158102 | 204 125 | 80 80 | 97.5 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1 k105_26507
+
+CONTIG: k105_35943 (4385bp)
+Best alignment score: 89.0 (LEN: 90, IDY: 98.89), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 4295
+		This contig is partially unaligned. (Aligned 90 out of 4385 non-N bases (2.05%))
+		Alignment: 158019 158108 | 4370 4281 | 90 90 | 98.89 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1 k105_35943
+		Unaligned bases: 1 to 4280 (4280)
+		Unaligned bases: 4371 to 4385 (15)
+
+CONTIG: k105_129882 (2643bp)
+Best alignment score: 83.0 (LEN: 85, IDY: 97.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 2558
+		This contig is partially unaligned. (Aligned 85 out of 2643 non-N bases (3.22%))
+		Alignment: 64750 64834 | 2097 2181 | 85 85 | 97.65 | marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1 k105_129882
+		Unaligned bases: 1 to 2096 (2096)
+		Unaligned bases: 2182 to 2643 (462)
+
+CONTIG: k105_100713 (944bp)
+		This contig is unaligned. (944 bp)
+		Unaligned bases: 944 (number of Ns: 0)
+
+CONTIG: k105_100910 (727bp)
+Best alignment score: 91.0 (LEN: 95, IDY: 95.79), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 632
+		This contig is partially unaligned. (Aligned 95 out of 727 non-N bases (13.07%))
+		Alignment: 33593 33687 | 105 11 | 95 95 | 95.79 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_100910
+		Unaligned bases: 1 to 10 (10)
+		Unaligned bases: 106 to 727 (622)
+
+CONTIG: k105_102215 (789bp)
+Best alignment score: 775.0 (LEN: 789, IDY: 98.23), Total number of alignments: 1
+		One align captures most of this contig: 33594 34382 | 1 789 | 789 789 | 98.23 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_102215
+
+CONTIG: k105_104170 (559bp)
+Best alignment score: 222.0 (LEN: 227, IDY: 97.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 222.0, number of alignments: 1, unaligned bases: 332
+		Alignment: 29613 29839 | 333 559 | 227 227 | 97.8 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_104170
+
+CONTIG: k105_104193 (519bp)
+Best alignment score: 378.4 (LEN: 397, IDY: 95.31), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 378.4, number of alignments: 1, unaligned bases: 122
+		Alignment: 29436 29839 | 123 519 | 404 397 | 95.31 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_104193
+
+CONTIG: k105_27352 (1331bp)
+Best alignment score: 1278.0 (LEN: 1331, IDY: 96.02), Total number of alignments: 1
+		One align captures most of this contig: 29735 31066 | 1 1331 | 1332 1331 | 96.02 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_27352
+
+CONTIG: k105_36469 (1193bp)
+Best alignment score: 93.0 (LEN: 95, IDY: 97.89), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 1098
+		This contig is partially unaligned. (Aligned 95 out of 1193 non-N bases (7.96%))
+		Alignment: 33594 33688 | 497 591 | 95 95 | 97.89 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_36469
+		Unaligned bases: 1 to 496 (496)
+		Unaligned bases: 592 to 1193 (602)
+
+CONTIG: k105_124272 (1046bp)
+Best alignment score: 124.0 (LEN: 129, IDY: 96.12), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 285.0, number of alignments: 3, unaligned bases: 749
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1046 (number of Ns: 0) and total length of all aligns is 297
+		Alignment: 32729 32857 | 392 264 | 129 129 | 96.12 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_124272
+		Alignment: 32156 32256 | 966 866 | 101 101 | 96.04 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_124272
+		Alignment: 32084 32150 | 1038 972 | 67 67 | 95.52 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_124272
+		Unaligned bases: 749
+
+CONTIG: k105_43304 (915bp)
+		This contig is unaligned. (915 bp)
+		Unaligned bases: 915 (number of Ns: 0)
+
+CONTIG: k105_45945 (2774bp)
+Best alignment score: 917.0 (LEN: 944, IDY: 97.14), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			The best set is below. Score: 1957.0, number of alignments: 6, unaligned bases: 761
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 2013 out of 2774 non-N bases (72.57%))
+			Real Alignment 1: 33216 33685 | 470 1 | 470 470 | 97.45 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_45945
+			  Stretch of 5 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 2: 32267 33210 | 1419 476 | 944 944 | 97.14 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_45945
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 6 mismatches (number of Ns: 0)
+			Real Alignment 3: 32087 32256 | 1597 1428 | 170 170 | 99.41 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_45945
+			  Gap between these two alignments (local misassembly). Inconsistency = -52
+			Real Alignment 4: 31325 31400 | 2411 2336 | 76 76 | 98.68 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_45945
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 8 mismatches (number of Ns: 0)
+			Real Alignment 5: 31232 31314 | 2503 2421 | 83 83 | 96.39 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_45945
+			  Indel (<= 5bp) between these two alignments: insertion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 6: 30962 31231 | 2774 2505 | 270 270 | 95.56 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_45945
+		Unaligned bases: 761
+
+CONTIG: k105_151675 (611bp)
+Best alignment score: 76.0 (LEN: 80, IDY: 95.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 531
+		Alignment: 30270 30349 | 264 343 | 80 80 | 95.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_151675
+
+CONTIG: k105_162555 (605bp)
+Best alignment score: 141.0 (LEN: 148, IDY: 95.27), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 141.0, number of alignments: 1, unaligned bases: 457
+		Alignment: 34070 34217 | 458 605 | 148 148 | 95.27 | marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1 k105_162555
+
+CONTIG: k105_21876 (980bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 901
+		Alignment: 97815 97893 | 462 540 | 79 79 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1 k105_21876
+
+CONTIG: k105_75222 (692bp)
+Best alignment score: 117.0 (LEN: 120, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 117.0, number of alignments: 1, unaligned bases: 572
+		This contig is partially unaligned. (Aligned 120 out of 692 non-N bases (17.34%))
+		Alignment: 68067 68186 | 573 692 | 120 120 | 97.5 | marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1 k105_75222
+		Unaligned bases: 1 to 572 (572)
+
+CONTIG: k105_163986 (1096bp)
+Best alignment score: 116.0 (LEN: 120, IDY: 96.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 116.0, number of alignments: 1, unaligned bases: 976
+		This contig is partially unaligned. (Aligned 120 out of 1096 non-N bases (10.95%))
+		Alignment: 68067 68186 | 120 1 | 120 120 | 96.67 | marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1 k105_163986
+		Unaligned bases: 121 to 1096 (976)
+
+CONTIG: k105_109965 (1930bp)
+Best alignment score: 91.0 (LEN: 93, IDY: 97.85), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 1837
+		This contig is partially unaligned. (Aligned 93 out of 1930 non-N bases (4.82%))
+		Alignment: 91763 91855 | 1230 1322 | 93 93 | 97.85 | marine_gamma_proteobacterium_HTCC2080_AAVV01000002.1 k105_109965
+		Unaligned bases: 1 to 1229 (1229)
+		Unaligned bases: 1323 to 1930 (608)
+
+CONTIG: k105_29576 (502bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 425
+		Alignment: 85276 85352 | 172 96 | 77 77 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000002.1 k105_29576
+
+CONTIG: k105_27363 (1350bp)
+Best alignment score: 96.0 (LEN: 100, IDY: 96.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 1250
+		This contig is partially unaligned. (Aligned 100 out of 1350 non-N bases (7.41%))
+		Alignment: 25119 25218 | 1207 1306 | 100 100 | 96.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000021.1 k105_27363
+		Unaligned bases: 1 to 1206 (1206)
+		Unaligned bases: 1307 to 1350 (44)
+
+CONTIG: k105_51232 (2823bp)
+Best alignment score: 178.0 (LEN: 178, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 178.0, number of alignments: 1, unaligned bases: 2645
+		This contig is partially unaligned. (Aligned 178 out of 2823 non-N bases (6.31%))
+		Alignment: 391390 391567 | 2543 2720 | 178 178 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_51232
+		Unaligned bases: 1 to 2542 (2542)
+		Unaligned bases: 2721 to 2823 (103)
+
+CONTIG: k105_59442 (1180bp)
+Best alignment score: 63.0 (LEN: 66, IDY: 95.45), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 232077 232142 | 98 33 | 66 66 | 95.45 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_59442
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 63.0, number of alignments: 1, unaligned bases: 1114
+		This contig is partially unaligned. (Aligned 66 out of 1180 non-N bases (5.59%))
+		Alignment: 248707 248772 | 98 33 | 66 66 | 95.45 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_59442
+		Unaligned bases: 1 to 32 (32)
+		Unaligned bases: 99 to 1180 (1082)
+
+CONTIG: k105_71700 (1417bp)
+Best alignment score: 79.0 (LEN: 81, IDY: 97.53), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 230965 231045 | 135 55 | 81 81 | 97.53 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_71700
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1336
+		This contig is partially unaligned. (Aligned 81 out of 1417 non-N bases (5.72%))
+		Alignment: 247595 247675 | 135 55 | 81 81 | 97.53 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_71700
+		Unaligned bases: 1 to 54 (54)
+		Unaligned bases: 136 to 1417 (1282)
+
+CONTIG: k105_71702 (1466bp)
+Best alignment score: 100.0 (LEN: 104, IDY: 96.15), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 254.9, number of alignments: 4, unaligned bases: 1132
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 334 out of 1466 non-N bases (22.78%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1466 (number of Ns: 0) and total length of all aligns is 334
+		Alignment: 230735 230812 | 319 242 | 78 78 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_71702
+		Alignment: 230636 230711 | 410 335 | 76 76 | 97.37 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_71702
+		Alignment: 230465 230568 | 581 478 | 104 104 | 96.15 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_71702
+		Alignment: 177836 177911 | 782 707 | 76 76 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_71702
+		Unaligned bases: 1132
+
+CONTIG: k105_84223 (863bp)
+Best alignment score: 208.0 (LEN: 218, IDY: 95.41), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 230954 231168 | 759 545 | 215 215 | 95.35 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_84223
+			The best set is below. Score: 208.0, number of alignments: 1, unaligned bases: 645
+		This contig is partially unaligned. (Aligned 218 out of 863 non-N bases (25.26%))
+		Alignment: 247581 247798 | 762 545 | 218 218 | 95.41 | marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1 k105_84223
+		Unaligned bases: 1 to 544 (544)
+		Unaligned bases: 763 to 863 (101)
+
+CONTIG: k105_53564 (8796bp)
+Best alignment score: 66.0 (LEN: 69, IDY: 95.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 66.0, number of alignments: 1, unaligned bases: 8727
+		This contig is partially unaligned. (Aligned 69 out of 8796 non-N bases (0.78%))
+		Alignment: 122927 122995 | 6708 6640 | 69 69 | 95.65 | marine_gamma_proteobacterium_HTCC2080_AAVV01000010.1 k105_53564
+		Unaligned bases: 1 to 6639 (6639)
+		Unaligned bases: 6709 to 8796 (2088)
+
+CONTIG: k105_77423 (1085bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 1003
+		This contig is partially unaligned. (Aligned 82 out of 1085 non-N bases (7.56%))
+		Alignment: 102723 102804 | 83 2 | 82 82 | 100.0 | marine_gamma_proteobacterium_HTCC2080_AAVV01000005.1 k105_77423
+		Unaligned bases: 1 to 1 (1)
+		Unaligned bases: 84 to 1085 (1002)
+
+Analyzing coverage...
+Writing SNPs into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 18 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 40252
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 2597
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 6087
+
+	SNPs: 234
+	Insertions: 2
+	Deletions: 12
+

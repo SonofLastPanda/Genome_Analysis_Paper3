@@ -1,0 +1,160 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Sphingobium_fuliginis_NZ_CP060035.1]
+	Loaded [Sphingobium_fuliginis_NZ_CP060036.1]
+	Loaded [Sphingobium_fuliginis_NZ_CP060037.1]
+	Loaded [Sphingobium_fuliginis_NZ_CP060038.1]
+	Total Regions: 4
+	Total Region Length: 4984172
+Analyzing contigs...
+CONTIG: k105_93760 (679bp)
+Best alignment score: 85.0 (LEN: 88, IDY: 96.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 591
+		Alignment: 313916 314003 | 582 495 | 88 88 | 96.59 | Sphingobium_fuliginis_NZ_CP060036.1 k105_93760
+
+CONTIG: k105_12400 (1299bp)
+		This contig is unaligned. (1299 bp)
+		Unaligned bases: 1299 (number of Ns: 0)
+
+CONTIG: k105_36469 (1193bp)
+Best alignment score: 84.0 (LEN: 85, IDY: 98.82), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2768691 2768775 | 590 506 | 85 85 | 98.82 | Sphingobium_fuliginis_NZ_CP060035.1 k105_36469
+		Skipping redundant alignment 317084 317168 | 506 590 | 85 85 | 98.82 | Sphingobium_fuliginis_NZ_CP060036.1 k105_36469
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 1108
+		This contig is partially unaligned. (Aligned 85 out of 1193 non-N bases (7.12%))
+		Alignment: 788065 788149 | 590 506 | 85 85 | 98.82 | Sphingobium_fuliginis_NZ_CP060036.1 k105_36469
+		Unaligned bases: 1 to 505 (505)
+		Unaligned bases: 591 to 1193 (603)
+
+CONTIG: k105_47868 (1678bp)
+		This contig is unaligned. (1678 bp)
+		Unaligned bases: 1678 (number of Ns: 0)
+
+CONTIG: k105_64375 (748bp)
+Best alignment score: 78.0 (LEN: 82, IDY: 95.12), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 791408 791489 | 73 154 | 82 82 | 95.12 | Sphingobium_fuliginis_NZ_CP060036.1 k105_64375
+		Skipping redundant alignment 2772034 2772115 | 73 154 | 82 82 | 95.12 | Sphingobium_fuliginis_NZ_CP060035.1 k105_64375
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 666
+		This contig is partially unaligned. (Aligned 82 out of 748 non-N bases (10.96%))
+		Alignment: 313618 313699 | 154 73 | 82 82 | 95.12 | Sphingobium_fuliginis_NZ_CP060036.1 k105_64375
+		Unaligned bases: 1 to 72 (72)
+		Unaligned bases: 155 to 748 (594)
+
+CONTIG: k105_151675 (611bp)
+Best alignment score: 84.0 (LEN: 87, IDY: 96.55), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 791402 791488 | 439 353 | 87 87 | 96.55 | Sphingobium_fuliginis_NZ_CP060036.1 k105_151675
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 524
+		Alignment: 2772028 2772114 | 439 353 | 87 87 | 96.55 | Sphingobium_fuliginis_NZ_CP060035.1 k105_151675
+
+CONTIG: k105_70723 (891bp)
+Best alignment score: 97.0 (LEN: 102, IDY: 95.10), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2769404 2769505 | 263 162 | 102 102 | 95.1 | Sphingobium_fuliginis_NZ_CP060035.1 k105_70723
+		Skipping redundant alignment 316354 316455 | 162 263 | 102 102 | 95.1 | Sphingobium_fuliginis_NZ_CP060036.1 k105_70723
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 97.0, number of alignments: 1, unaligned bases: 789
+		This contig is partially unaligned. (Aligned 102 out of 891 non-N bases (11.45%))
+		Alignment: 788778 788879 | 263 162 | 102 102 | 95.1 | Sphingobium_fuliginis_NZ_CP060036.1 k105_70723
+		Unaligned bases: 1 to 161 (161)
+		Unaligned bases: 264 to 891 (628)
+
+CONTIG: k105_77996 (655bp)
+Best alignment score: 104.0 (LEN: 105, IDY: 99.05), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 788050 788154 | 105 1 | 105 105 | 99.05 | Sphingobium_fuliginis_NZ_CP060036.1 k105_77996
+		Skipping redundant alignment 317079 317183 | 1 105 | 105 105 | 99.05 | Sphingobium_fuliginis_NZ_CP060036.1 k105_77996
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 104.0, number of alignments: 1, unaligned bases: 550
+		This contig is partially unaligned. (Aligned 105 out of 655 non-N bases (16.03%))
+		Alignment: 2768676 2768780 | 105 1 | 105 105 | 99.05 | Sphingobium_fuliginis_NZ_CP060035.1 k105_77996
+		Unaligned bases: 106 to 655 (550)
+
+CONTIG: k105_79299 (593bp)
+Best alignment score: 62.0 (LEN: 65, IDY: 95.38), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 313538 313602 | 337 401 | 65 65 | 95.38 | Sphingobium_fuliginis_NZ_CP060036.1 k105_79299
+		Skipping redundant alignment 2772131 2772195 | 401 337 | 65 65 | 95.38 | Sphingobium_fuliginis_NZ_CP060035.1 k105_79299
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 62.0, number of alignments: 1, unaligned bases: 528
+		Alignment: 791505 791569 | 401 337 | 65 65 | 95.38 | Sphingobium_fuliginis_NZ_CP060036.1 k105_79299
+
+CONTIG: k105_84983 (597bp)
+		This contig is unaligned. (597 bp)
+		Unaligned bases: 597 (number of Ns: 0)
+
+CONTIG: k105_171998 (1056bp)
+		This contig is unaligned. (1056 bp)
+		Unaligned bases: 1056 (number of Ns: 0)
+
+CONTIG: k105_61635 (2184bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 2109
+		This contig is partially unaligned. (Aligned 75 out of 2184 non-N bases (3.43%))
+		Alignment: 515138 515212 | 2013 1939 | 75 75 | 98.67 | Sphingobium_fuliginis_NZ_CP060035.1 k105_61635
+		Unaligned bases: 1 to 1938 (1938)
+		Unaligned bases: 2014 to 2184 (171)
+
+CONTIG: k105_149621 (32249bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 32169
+		This contig is partially unaligned. (Aligned 80 out of 32249 non-N bases (0.25%))
+		Alignment: 1624063 1624142 | 302 223 | 80 80 | 97.5 | Sphingobium_fuliginis_NZ_CP060035.1 k105_149621
+		Unaligned bases: 1 to 222 (222)
+		Unaligned bases: 303 to 32249 (31947)
+
+Analyzing coverage...
+Writing SNPs into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/Sphingobium_fuliginis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/Sphingobium_fuliginis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 4 + 6 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 42021
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 4691
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 769
+
+	SNPs: 23
+	Insertions: 0
+	Deletions: 0
+

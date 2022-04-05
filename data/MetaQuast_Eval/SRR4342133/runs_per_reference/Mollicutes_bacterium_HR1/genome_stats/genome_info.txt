@@ -1,0 +1,14 @@
+reference chromosomes:
+	Mollicutes_bacterium_HR1_NZ_CP009415.1 (total length: 1878735 bp, total length without N's: 1878733 bp, maximal covered length: 247 bp)
+
+total genome size: 1878735
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Mollicu | 0.013     | 1.316       | 6         | -         | -         | -         | -         |

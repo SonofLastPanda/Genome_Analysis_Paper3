@@ -1,0 +1,23 @@
+reference chromosomes:
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000001.1 (total length: 1687623 bp, total length without N's: 1687435 bp, maximal covered length: 86 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000002.1 (total length: 1647856 bp, total length without N's: 1647856 bp, maximal covered length: 1067 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000003.1 (total length: 7935 bp, total length without N's: 7935 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000004.1 (total length: 2961 bp, total length without N's: 2961 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000005.1 (total length: 2405 bp, total length without N's: 2405 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000006.1 (total length: 2402 bp, total length without N's: 2402 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000007.1 (total length: 982 bp, total length without N's: 982 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000008.1 (total length: 855 bp, total length without N's: 855 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000009.1 (total length: 718 bp, total length without N's: 718 bp, maximal covered length: 0 bp)
+	Phaeocystidibacter_sp._G18_NZ_BMGX01000010.1 (total length: 502 bp, total length without N's: 502 bp, maximal covered length: 0 bp)
+
+total genome size: 3354239
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Phaeocy | 0.034     | 2.412       | 18        | -         | -         | -         | -         |

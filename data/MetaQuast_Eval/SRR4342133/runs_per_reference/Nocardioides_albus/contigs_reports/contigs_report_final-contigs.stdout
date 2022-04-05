@@ -1,0 +1,190 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Nocardioides_albus_NZ_JACHXG010000001.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000002.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000003.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000004.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000005.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000006.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000007.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000008.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000009.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000010.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000011.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000012.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000013.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000014.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000015.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000016.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000017.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000018.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000019.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000020.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000021.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000022.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000023.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000024.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000025.1]
+	Loaded [Nocardioides_albus_NZ_JACHXG010000026.1]
+	Total Regions: 26
+	Total Region Length: 5654316
+Analyzing contigs...
+CONTIG: k105_87383 (563bp)
+Best alignment score: 83.0 (LEN: 85, IDY: 97.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 478
+		Alignment: 113783 113867 | 21 105 | 85 85 | 97.65 | Nocardioides_albus_NZ_JACHXG010000002.1 k105_87383
+
+CONTIG: k105_20103 (638bp)
+Best alignment score: 86.0 (LEN: 88, IDY: 97.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 550
+		This contig is partially unaligned. (Aligned 88 out of 638 non-N bases (13.79%))
+		Alignment: 113783 113870 | 18 105 | 88 88 | 97.73 | Nocardioides_albus_NZ_JACHXG010000002.1 k105_20103
+		Unaligned bases: 1 to 17 (17)
+		Unaligned bases: 106 to 638 (533)
+
+CONTIG: k105_23618 (2018bp)
+Best alignment score: 86.0 (LEN: 88, IDY: 97.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 1930
+		This contig is partially unaligned. (Aligned 88 out of 2018 non-N bases (4.36%))
+		Alignment: 113783 113870 | 18 105 | 88 88 | 97.73 | Nocardioides_albus_NZ_JACHXG010000002.1 k105_23618
+		Unaligned bases: 1 to 17 (17)
+		Unaligned bases: 106 to 2018 (1913)
+
+CONTIG: k105_4107 (1803bp)
+Best alignment score: 77.0 (LEN: 81, IDY: 95.06), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1722
+		This contig is partially unaligned. (Aligned 81 out of 1803 non-N bases (4.49%))
+		Alignment: 4535 4615 | 1020 940 | 81 81 | 95.06 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_4107
+		Unaligned bases: 1 to 939 (939)
+		Unaligned bases: 1021 to 1803 (783)
+
+CONTIG: k105_6817 (603bp)
+		This contig is unaligned. (603 bp)
+		Unaligned bases: 603 (number of Ns: 0)
+
+CONTIG: k105_93760 (679bp)
+Best alignment score: 70.0 (LEN: 71, IDY: 98.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 608
+		This contig is partially unaligned. (Aligned 71 out of 679 non-N bases (10.46%))
+		Alignment: 4165 4235 | 512 582 | 71 71 | 98.59 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_93760
+		Unaligned bases: 1 to 511 (511)
+		Unaligned bases: 583 to 679 (97)
+
+CONTIG: k105_95110 (913bp)
+Best alignment score: 91.0 (LEN: 95, IDY: 95.79), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 818
+		This contig is partially unaligned. (Aligned 95 out of 913 non-N bases (10.41%))
+		Alignment: 4142 4236 | 792 886 | 95 95 | 95.79 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_95110
+		Unaligned bases: 1 to 791 (791)
+		Unaligned bases: 887 to 913 (27)
+
+CONTIG: k105_95918 (3942bp)
+Best alignment score: 223.1 (LEN: 233, IDY: 95.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 223.1, number of alignments: 1, unaligned bases: 3709
+		This contig is partially unaligned. (Aligned 233 out of 3942 non-N bases (5.91%))
+		Alignment: 3727 3960 | 3710 3942 | 234 233 | 95.73 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_95918
+		Unaligned bases: 1 to 3709 (3709)
+
+CONTIG: k105_102769 (19203bp)
+Best alignment score: 63.0 (LEN: 65, IDY: 96.92), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 63.0, number of alignments: 1, unaligned bases: 19138
+		This contig is partially unaligned. (Aligned 65 out of 19203 non-N bases (0.34%))
+		Alignment: 5182 5246 | 18299 18235 | 65 65 | 96.92 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_102769
+		Unaligned bases: 1 to 18234 (18234)
+		Unaligned bases: 18300 to 19203 (904)
+
+CONTIG: k105_46759 (532bp)
+Best alignment score: 102.0 (LEN: 105, IDY: 97.14), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 102.0, number of alignments: 1, unaligned bases: 427
+		Alignment: 4280 4384 | 105 1 | 105 105 | 97.14 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_46759
+
+CONTIG: k105_60789 (3858bp)
+Best alignment score: 187.0 (LEN: 195, IDY: 95.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 187.0, number of alignments: 1, unaligned bases: 3663
+		This contig is partially unaligned. (Aligned 195 out of 3858 non-N bases (5.05%))
+		Alignment: 305 499 | 756 950 | 195 195 | 95.9 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_60789
+		Unaligned bases: 1 to 755 (755)
+		Unaligned bases: 951 to 3858 (2908)
+
+CONTIG: k105_61441 (4306bp)
+Best alignment score: 223.1 (LEN: 233, IDY: 95.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 223.1, number of alignments: 1, unaligned bases: 4073
+		This contig is partially unaligned. (Aligned 233 out of 4306 non-N bases (5.41%))
+		Alignment: 3727 3960 | 233 1 | 234 233 | 95.73 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_61441
+		Unaligned bases: 234 to 4306 (4073)
+
+CONTIG: k105_67219 (738bp)
+Best alignment score: 135.0 (LEN: 142, IDY: 95.07), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 135.0, number of alignments: 1, unaligned bases: 596
+		This contig is partially unaligned. (Aligned 142 out of 738 non-N bases (19.24%))
+		Alignment: 299 440 | 597 738 | 142 142 | 95.07 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_67219
+		Unaligned bases: 1 to 596 (596)
+
+CONTIG: k105_160181 (504bp)
+Best alignment score: 91.0 (LEN: 91, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 413
+		Alignment: 4147 4237 | 366 456 | 91 91 | 100.0 | Nocardioides_albus_NZ_JACHXG010000024.1 k105_160181
+
+CONTIG: k105_25887 (1865bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1785
+		This contig is partially unaligned. (Aligned 80 out of 1865 non-N bases (4.29%))
+		Alignment: 665616 665695 | 521 600 | 80 80 | 97.5 | Nocardioides_albus_NZ_JACHXG010000001.1 k105_25887
+		Unaligned bases: 1 to 520 (520)
+		Unaligned bases: 601 to 1865 (1265)
+
+CONTIG: k105_147530 (668bp)
+Best alignment score: 112.0 (LEN: 116, IDY: 96.55), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 112.0, number of alignments: 1, unaligned bases: 552
+		Alignment: 669631 669746 | 369 254 | 116 116 | 96.55 | Nocardioides_albus_NZ_JACHXG010000001.1 k105_147530
+
+Analyzing coverage...
+Writing SNPs into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/Nocardioides_albus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/Nocardioides_albus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 11 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 39195
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1066
+
+	SNPs: 59
+	Insertions: 0
+	Deletions: 2
+

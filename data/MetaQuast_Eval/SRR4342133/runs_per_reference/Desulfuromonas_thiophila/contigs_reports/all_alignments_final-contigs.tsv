@@ -1,0 +1,14 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3245	3342	1554	1651	Desulfuromonas_thiophila_NZ_FNAQ01000032.1	k105_88379	98.98		True
+CONTIG	k105_88379	1651	correct_unaligned
+CONTIG	k105_35820	2659	unaligned
+3245	3365	8	128	Desulfuromonas_thiophila_NZ_FNAQ01000032.1	k105_77999	95.04		True
+CONTIG	k105_77999	651	correct_unaligned
+22	95	414	487	Desulfuromonas_thiophila_NZ_FNAQ01000032.1	k105_79299	98.65		True
+CONTIG	k105_79299	593	correct
+3230	3342	1642	1530	Desulfuromonas_thiophila_NZ_FNAQ01000032.1	k105_79589	98.23		True
+CONTIG	k105_79589	1649	correct_unaligned
+4057	4121	290	354	Desulfuromonas_thiophila_NZ_FNAQ01000032.1	k105_85736	95.38		True
+CONTIG	k105_85736	501	correct
+120494	120572	34504	34426	Desulfuromonas_thiophila_NZ_FNAQ01000002.1	k105_143643	97.47		True
+CONTIG	k105_143643	39648	correct_unaligned

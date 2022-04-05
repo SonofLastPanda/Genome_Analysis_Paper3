@@ -1,0 +1,41 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+738631	738781	507	357	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_87030	97.35		True
+CONTIG	k105_87030	513	correct
+2282235	2282314	217	138	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_13073	98.75		True
+CONTIG	k105_13073	26811	correct_unaligned
+734901	735022	1	122	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_100713	97.54		True
+CONTIG	k105_100713	944	correct_unaligned
+2013109	2013187	189	111	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_103635	100.0		True
+CONTIG	k105_103635	718	correct_unaligned
+734729	734853	676	800	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_108695	96.0		True
+CONTIG	k105_108695	1208	correct_unaligned
+2313704	2313782	306	384	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_25513	98.73		True
+CONTIG	k105_25513	532	correct
+596833	596910	684	607	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_27962	100.0		True
+CONTIG	k105_27962	755	correct_unaligned
+571878	571945	1059	992	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_117842	98.53		True
+unknown
+571384	571568	1653	1469	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_117842	95.14		True
+unknown
+CONTIG	k105_117842	1653	mis_unaligned
+596833	596910	578	501	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_40440	100.0		True
+CONTIG	k105_40440	702	correct_unaligned
+1771903	1771980	4712	4635	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_125749	98.72		True
+CONTIG	k105_125749	14321	correct_unaligned
+735386	735561	841	666	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_41974	96.02		True
+CONTIG	k105_41974	841	correct_unaligned
+572036	572146	648	758	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_52358	96.4		True
+CONTIG	k105_52358	758	correct_unaligned
+2282235	2282314	217	138	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_154197	98.75		True
+CONTIG	k105_154197	1614	correct_unaligned
+596834	596911	317	240	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_71702	98.72		True
+unknown
+596146	596231	563	478	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_71702	96.51		True
+unknown
+595935	596012	782	705	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_71702	100.0		True
+unknown
+CONTIG	k105_71702	1466	mis_unaligned
+3702563	3702635	935	863	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_163909	98.63		True
+CONTIG	k105_163909	1028	correct_unaligned
+734763	734838	412	487	Alcanivorax_pacificus_W11_5_NZ_CP004387.1	k105_79299	96.05		True
+CONTIG	k105_79299	593	correct

@@ -1,0 +1,17 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+783	852	513	582	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000021.1	k105_93760	97.14		True
+CONTIG	k105_93760	679	correct_unaligned
+CONTIG	k105_95109	973	unaligned
+178	249	380	451	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000021.1	k105_95110	98.61		True
+CONTIG	k105_95110	913	correct
+CONTIG	k105_43304	915	unaligned
+419851	419978	1617	1490	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211102.1	k105_156484	96.09		True
+CONTIG	k105_156484	2248	correct_unaligned
+298419	298535	606	490	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1	k105_36469	96.58		True
+CONTIG	k105_36469	1193	correct_unaligned
+2375	2474	512	413	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1	k105_161086	95.0		True
+CONTIG	k105_161086	514	correct
+298434	298516	83	1	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1	k105_162555	97.59		True
+CONTIG	k105_162555	605	correct_unaligned
+675	758	1056	973	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1	k105_171998	96.43		True
+CONTIG	k105_171998	1056	correct_unaligned

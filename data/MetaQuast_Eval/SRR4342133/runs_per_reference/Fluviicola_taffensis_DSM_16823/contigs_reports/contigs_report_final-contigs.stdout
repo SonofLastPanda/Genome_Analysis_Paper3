@@ -1,0 +1,218 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Fluviicola_taffensis_DSM_16823_NC_015321.1]
+	Total Regions: 1
+	Total Region Length: 4633577
+Analyzing contigs...
+CONTIG: k105_89277 (3552bp)
+Best alignment score: 213.0 (LEN: 224, IDY: 95.09), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2757097 2757320 | 3274 3051 | 224 224 | 95.09 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_89277
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 213.0, number of alignments: 1, unaligned bases: 3328
+		This contig is partially unaligned. (Aligned 224 out of 3552 non-N bases (6.31%))
+		Alignment: 2880535 2880758 | 3274 3051 | 224 224 | 95.09 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_89277
+		Unaligned bases: 1 to 3050 (3050)
+		Unaligned bases: 3275 to 3552 (278)
+
+CONTIG: k105_90169 (1771bp)
+Best alignment score: 202.0 (LEN: 208, IDY: 97.12), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 296.0, number of alignments: 2, unaligned bases: 1467
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 304 out of 1771 non-N bases (17.17%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1771 (number of Ns: 0) and total length of all aligns is 304
+		Alignment: 2755673 2755768 | 140 45 | 96 96 | 97.92 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_90169
+		Alignment: 2754087 2754294 | 1771 1564 | 208 208 | 97.12 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_90169
+		Unaligned bases: 1467
+
+CONTIG: k105_90913 (8785bp)
+Best alignment score: 164.0 (LEN: 172, IDY: 95.35), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2756545 2756716 | 5079 4908 | 172 172 | 95.35 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_90913
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 164.0, number of alignments: 1, unaligned bases: 8613
+		This contig is partially unaligned. (Aligned 172 out of 8785 non-N bases (1.96%))
+		Alignment: 2879983 2880154 | 5079 4908 | 172 172 | 95.35 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_90913
+		Unaligned bases: 1 to 4907 (4907)
+		Unaligned bases: 5080 to 8785 (3706)
+
+CONTIG: k105_11235 (649bp)
+		This contig is unaligned. (649 bp)
+		Unaligned bases: 649 (number of Ns: 0)
+
+CONTIG: k105_110088 (850bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2753800 2753873 | 219 292 | 74 74 | 98.65 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_110088
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 776
+		This contig is partially unaligned. (Aligned 74 out of 850 non-N bases (8.71%))
+		Alignment: 2877387 2877460 | 219 292 | 74 74 | 98.65 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_110088
+		Unaligned bases: 1 to 218 (218)
+		Unaligned bases: 293 to 850 (558)
+
+CONTIG: k105_114129 (2207bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 2124
+		This contig is partially unaligned. (Aligned 83 out of 2207 non-N bases (3.76%))
+		Alignment: 2754495 2754577 | 1558 1640 | 83 83 | 98.8 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_114129
+		Unaligned bases: 1 to 1557 (1557)
+		Unaligned bases: 1641 to 2207 (567)
+
+CONTIG: k105_115520 (557bp)
+Best alignment score: 69.0 (LEN: 69, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 69.0, number of alignments: 1, unaligned bases: 488
+		Alignment: 2754495 2754563 | 74 6 | 69 69 | 100.0 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_115520
+
+CONTIG: k105_34003 (674bp)
+		This contig is unaligned. (674 bp)
+		Unaligned bases: 674 (number of Ns: 0)
+
+CONTIG: k105_46776 (666bp)
+Best alignment score: 103.0 (LEN: 106, IDY: 97.17), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2880031 2880136 | 106 1 | 106 106 | 97.17 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_46776
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 103.0, number of alignments: 1, unaligned bases: 560
+		This contig is partially unaligned. (Aligned 106 out of 666 non-N bases (15.92%))
+		Alignment: 2756593 2756698 | 106 1 | 106 106 | 97.17 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_46776
+		Unaligned bases: 107 to 666 (560)
+
+CONTIG: k105_134101 (568bp)
+Best alignment score: 119.0 (LEN: 125, IDY: 95.20), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 119.0, number of alignments: 1, unaligned bases: 443
+		Alignment: 2480057 2480181 | 278 402 | 125 125 | 95.2 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_134101
+
+CONTIG: k105_54300 (598bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2879222 2879296 | 377 303 | 75 75 | 98.67 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_54300
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 523
+		Alignment: 2755784 2755858 | 377 303 | 75 75 | 98.67 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_54300
+
+CONTIG: k105_55099 (1683bp)
+Best alignment score: 95.0 (LEN: 95, IDY: 100.00), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2876356 2876425 | 303 372 | 70 70 | 97.14 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_55099
+		Skipping redundant alignment 2876840 2876934 | 789 883 | 95 95 | 100.0 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_55099
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 163.0, number of alignments: 2, unaligned bases: 1518
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 165 out of 1683 non-N bases (9.80%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1683 (number of Ns: 0) and total length of all aligns is 165
+		Alignment: 2752769 2752838 | 303 372 | 70 70 | 97.14 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_55099
+		Alignment: 2753253 2753347 | 789 883 | 95 95 | 100.0 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_55099
+		Unaligned bases: 1518
+
+CONTIG: k105_149385 (671bp)
+Best alignment score: 104.0 (LEN: 109, IDY: 95.41), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2880031 2880139 | 207 99 | 109 109 | 95.41 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_149385
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 104.0, number of alignments: 1, unaligned bases: 562
+		Alignment: 2756593 2756701 | 207 99 | 109 109 | 95.41 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_149385
+
+CONTIG: k105_161847 (1432bp)
+Best alignment score: 87.0 (LEN: 89, IDY: 97.75), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 240.0, number of alignments: 3, unaligned bases: 1184
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 248 out of 1432 non-N bases (17.32%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1432 (number of Ns: 0) and total length of all aligns is 248
+		Alignment: 2754490 2754573 | 683 600 | 84 84 | 95.24 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_161847
+		Alignment: 2754388 2754462 | 762 688 | 75 75 | 97.33 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_161847
+		Alignment: 2753798 2753886 | 1406 1318 | 89 89 | 97.75 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_161847
+		Unaligned bases: 1184
+
+CONTIG: k105_162555 (605bp)
+Best alignment score: 81.0 (LEN: 82, IDY: 98.78), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2756619 2756700 | 1 82 | 82 82 | 98.78 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_162555
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 523
+		This contig is partially unaligned. (Aligned 82 out of 605 non-N bases (13.55%))
+		Alignment: 2880057 2880138 | 1 82 | 82 82 | 98.78 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_162555
+		Unaligned bases: 83 to 605 (523)
+
+CONTIG: k105_162593 (542bp)
+Best alignment score: 95.0 (LEN: 98, IDY: 96.94), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2753251 2753348 | 271 368 | 98 98 | 96.94 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_162593
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 444
+		Alignment: 2876838 2876935 | 271 368 | 98 98 | 96.94 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_162593
+
+CONTIG: k105_82352 (695bp)
+		This contig is unaligned. (695 bp)
+		Unaligned bases: 695 (number of Ns: 0)
+
+CONTIG: k105_171998 (1056bp)
+Best alignment score: 82.0 (LEN: 84, IDY: 97.62), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2880055 2880138 | 1056 973 | 84 84 | 97.62 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_171998
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 972
+		This contig is partially unaligned. (Aligned 84 out of 1056 non-N bases (7.95%))
+		Alignment: 2756617 2756700 | 1056 973 | 84 84 | 97.62 | Fluviicola_taffensis_DSM_16823_NC_015321.1 k105_171998
+		Unaligned bases: 1 to 972 (972)
+
+Analyzing coverage...
+Writing SNPs into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/Fluviicola_taffensis_DSM_16823/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /domus/h1/erkinala/Genome_Analysis_Paper3/data/MetaQuast_Eval/SRR4342133/runs_per_reference/Fluviicola_taffensis_DSM_16823/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 10 part
+Half Unaligned Contigs with Misassemblies: 3
+Unaligned Contig Bases: 23083
+
+Ambiguously Mapped Contigs: 10
+Total Bases in Ambiguously Mapped Contigs: 19008
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1598
+
+	SNPs: 60
+	Insertions: 0
+	Deletions: 0
+

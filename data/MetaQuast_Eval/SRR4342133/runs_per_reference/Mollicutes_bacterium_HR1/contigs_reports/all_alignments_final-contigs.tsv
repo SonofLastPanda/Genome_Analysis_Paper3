@@ -1,0 +1,9 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+4934	5006	510	582	Mollicutes_bacterium_HR1_NZ_CP009415.1	k105_93760	95.89		True
+CONTIG	k105_93760	679	correct_unaligned
+1774	1864	113	23	Mollicutes_bacterium_HR1_NZ_CP009415.1	k105_130799	95.6		True
+CONTIG	k105_130799	666	correct_unaligned
+1787	1864	644	721	Mollicutes_bacterium_HR1_NZ_CP009415.1	k105_66105	98.72		True
+CONTIG	k105_66105	741	correct_unaligned
+2419	2501	83	1	Mollicutes_bacterium_HR1_NZ_CP009415.1	k105_162555	97.59		True
+CONTIG	k105_162555	605	correct_unaligned
