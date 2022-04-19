@@ -28,7 +28,7 @@ bwa index $INDEX
 bwa mem -t 2 $INDEX $PAIR1 $PAIR2 | samtools sort -@ 2 -o $OUTPATH/depth.bam 
 jgi_summarize_bam_contig_depths --outputDepth $OUTPATH/depth.txt --pairedContigs $OUTPATH/paired.txt $OUTPATH/depth.bam
 
-metabat -i $INDEXDIR/$x/final.contigs.fa -a $OUTPATH/depth.txt -p $OUTPATH/paired.txt -o $OUTPATH --specific -l -v --saveTNF $OUTPATH/saved.tnf --saveDistance $OUTPATH/saved.gprob
+metabat -i $INDEXDIR/$x/final.contigs.fa -a $OUTPATH/depth.txt -p $OUTPATH/paired.txt -o $OUTPATH/$x --specific -l -v --saveTNF $OUTPATH/saved.tnf --saveDistance $OUTPATH/saved.gprob
 
 done
 
