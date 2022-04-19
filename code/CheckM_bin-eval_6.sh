@@ -12,7 +12,7 @@
 #module load CheckM
 
 DIR_DATA=(SRR4342129 SRR4342133)
-BINDIR="../data/Metabat_bins"
+BINDIR="/domus/h1/erkinala/Genome_Analysis_Paper3/data/Metabat_bins"
 Check_DIR="../data"
 
 
@@ -25,14 +25,15 @@ cp -av $CHECKM_DATA/checkm_data_2015_01_16.tar.gz .
 mkdir 2015_01_16
 cd 2015_01_16
 tar xzf ../checkm_data_2015_01_16.tar.gz
-
+LIN_DIR="/domus/h1/erkinala/Genome_Analysis_Paper3/data/CheckM_data/data/CheckM_data"
 checkm data setRoot $PWD
 for x in "${DIR_DATA[@]}"
 do
-DATADIR=$BINDIR/$x/$x/
+DATADIR=$BINDIR/$x/$x
 #analysis
 
 checkm lineage_wf -t 4 -x fa --reduced_tree $DATADIR $Check_DIR/CheckM_data/$x
-
+checkm analyze -t 4 -x fa $LIN_DIR/$x/lineage.ms $DATADIR $LIN_DIR/$x/Analyze_res
+checkm qa -t 4 -o 1 -f $LIN_DIR/$x/Analyze_res/qa.out $LIN_DIR/$x/lineage.ms $LIN_DIR/$x/Analyze_res 
 done
 

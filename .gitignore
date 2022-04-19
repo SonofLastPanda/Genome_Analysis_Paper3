@@ -3,3 +3,5 @@ data/trimmed_data
 data/assembled_seq
 code/slurm*
 data/MetaQuast_Eval/*/metaquast.log
+data/Metabat_bins
+data/CheckM_data
