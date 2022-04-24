@@ -5,3 +5,5 @@ code/slurm*
 data/MetaQuast_Eval/*/metaquast.log
 data/Metabat_bins
 data/CheckM_data
+data/Prokka_Ann
+data/Func_Ann
