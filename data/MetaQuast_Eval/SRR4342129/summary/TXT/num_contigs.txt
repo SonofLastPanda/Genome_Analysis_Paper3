@@ -1,3 +1,0 @@
-Assemblies                final.contigs
-Synechococcus_sp._RCC307  1361         
-not_aligned               87957        

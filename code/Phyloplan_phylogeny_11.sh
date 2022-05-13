@@ -2,18 +2,18 @@
 #SBATCH -A uppmax2022-2-5
 #SBATCH -M snowy
 #SBATCH -p core
-#SBATCH -n 2
+#SBATCH -n 4
 #SBATCH -J phylo
-#SBATCH -t 00:24:00
+#SBATCH -t 24:00:00
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user erkin.alacamli.9670@student.uu.se
 
 module load bioinfo-tools phylophlan/0.99 
 module unload python
-module load biopython/1.73 usearch/5.2.32 muscle/3.8.31
+module load biopython/1.73 usearch/5.2.32 muscle/3.8.31 FastTree
 
 outdir="/domus/h1/erkinala/Genome_Analysis_Paper3/data/Phyloplan"
-input=$outdir/input/metagenome
+#input=$outdir/input/
 
 #mkdir -p $outdir/input/metagenome
 #mkdir -p $outdir/output
@@ -25,10 +25,11 @@ input=$outdir/input/metagenome
 cd $outdir
 
 
-SAMPLE=(SRR4342129 SRR4342133)
+#SAMPLE=(SRR4342129 SRR4342133)
 
 
-for i in "${SAMPLE[@]}"
-do
-phylophlan -i $input/$i/* --output_folder $outdir/output/$i --nproc 2
-done 
+#for i in "${SAMPLE[@]}"
+#do
+phylophlan.py --nproc 4 -i SRR4342129
+#phylophlan.py --nproc 4 -i SRR4342133
+#done 
