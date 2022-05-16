@@ -10,17 +10,21 @@
 
 module load bioinfo-tools prokka
 
-BIN_DIR="../data/Metabat_bins"
-OUTDIR="../data/Prokka_Ann"
+BIN_DIR="/home/erkinala/Genome_Analysis_Paper3/data/Metabat_bins"
+OUTDIR="/home/erkinala/Genome_Analysis_Paper3/data/Prokka_Ann"
 DIRS=(SRR4342129 SRR4342133)
 
 for x in "${DIRS[@]}"
 do
-i=1
+
 DATADIR=$BIN_DIR/$x/$x
-	for bin in $DATADIR/*
-	do
-	prokka --metagenome --cpus 2 $bin --outdir $OUTDIR/$x/SRR4342129_${i}_ann.out
-	i=$((i+1))
-	done
+cd $DATADIR
+for bin in *
+do
+echo $bin
+sample_num=${bin%???}
+num=${sample_num#*.}
+echo $num
+prokka --metagenome --cpus 2 $bin --outdir $OUTDIR/$x/${bin}_ann.out --prefix $bin
+done
 done

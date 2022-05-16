@@ -22,7 +22,7 @@ do
 sample_num=${x%????????????????????}
 num=${sample_num#*.}
 #echo $num
-mkdir ${x}_out
-htseq-count -f bam $x $gff_dir/SRR4342129/SRR4342129_${num}_ann.out/PROKKA_04212022_trimmed.gff -o ${x}_out/htseq_count.sam
+#mkdir ${x}_out
+htseq-count -f bam -i ID -t CDS $x $gff_dir/$i/${i}.${num}.fa_ann.out/${i}.${num}.fa_ann.out_trimmed.gff > out/${x}_out.sam
 done
 done
